@@ -163,4 +163,5 @@ hs_err_pid*
 # End of https://www.gitignore.io/api/c,java,intellij
 
 to_be_ignore_02.txt
+to_be_ignore_03.txt
 to_be_ignore_04.txt
